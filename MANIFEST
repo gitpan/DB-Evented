@@ -1,0 +1,14 @@
+Changes
+LICENSE
+MANIFEST
+META.yml
+Makefile.PL
+README
+README.pod
+cpanfile
+dist.ini
+lib/DB/Evented.pm
+t/01-execute-in-parallel.t
+t/boilerplate.t
+t/manifest.t
+t/pod.t
